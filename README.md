@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Mariya
 
-<!--
-**mariyagry/mariyagry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring Software Engineer interested in Cloud Computing, Artificial Intelligence and Cyber Security.
 
-Here are some ideas to get you started:
+Currently developing my programming skills through independent study and software engineering education.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Languages
+- English
+- French
+- Ukrainian
+- Russian
+
+## Currently Learning
+- Python
+- Java
+- HTML/CSS
+- JavaScript
+
+## Areas of Interest
+- Google Cloud Platform
+- Software Engineering
+- Cloud Consulting
+- Artificial Intelligence
+- Cyber Security
